@@ -1,1 +1,1 @@
-# Impact of Website Visitor Traffic Features on User Signups
+# Impact of Website Visitor Traffic on User Signups
